@@ -1,6 +1,6 @@
 # BTS-FareCalculator.py
 Thai skytrain fare
-.................................................................
+
 Fare calculation
 Main route: Distance-based calculation
 0-1 stations: 16 Baht
@@ -11,5 +11,5 @@ Extended route: Flat rate
 Samrong - Kheha: 0 Baht
 Mo Chit - Ha Yak Lad Phrao: 0 Baht
 Other station: 15 Baht
-..............................................................
+
 ![alt text](https://www.bts.co.th/files/uploads/route/img/map1.png)
